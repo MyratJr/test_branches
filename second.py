@@ -1,0 +1,1 @@
+print("second.py is being imported")
